@@ -43,3 +43,11 @@ exit
                 view "cutdown" subtree "1.3.6.1.4.1.6527.3.1.2.1.13.2"
                     mask ff type excluded
                 exit
+                 view "cutdown" subtree "1.3.6.1.4.1.6527.3.1.2.14.2.4"
+                    mask ff type excluded
+                exit
+                view "cutdown" subtree "1.3.6.1.4.1.6527.3.1.2.18.5.4"
+                    mask ff type excluded
+                exit
+                view "cutdown" subtree "1.3.6.1.4.1.6527.3.1.2.18.5.103"
+
